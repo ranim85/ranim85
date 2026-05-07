@@ -22,20 +22,19 @@ Over time, I've gravitated toward the intersection of **machine learning and con
 
 ---
 
+### [Healthcare ML System — Diabetes Risk Prediction](https://github.com/ranim85/healthcare_project)
+> XGBoost · FastAPI · Streamlit · MLflow · SHAP · Docker · Optuna · Pytest
+
+Production-grade ML system for clinical risk modeling. Calibrated XGBoost pipeline with Optuna hyperparameter search, FastAPI serving with strict Pydantic validation, SHAP explainability, MLflow experiment tracking, and 15 automated tests covering leakage, corruption, and inference paths. ROC-AUC: 0.7768 · F1: 0.8014 · Recall: 0.8692.
+
+---
+
 ##  Featured Projects
 
 ### [PFE Management & Defense Scheduling Platform](https://github.com/ranim85/Mini-projet-pfe-frontend)
 > React 18 · TypeScript · Spring Boot · OR-Tools CP-SAT · Python · Docker
 
 Intelligent platform automating defense scheduling across supervisors, rooms, and time slots. Formulated as a **constraint optimization model** from scratch using OR-Tools CP-SAT. The real challenge: encoding informal real-world constraints into a formal model without losing what made them meaningful.
-
----
-
-### [AI-Based Healthcare Data Analysis](https://github.com/ranim85/healthcare_project)
-> Python · Pandas · NumPy · Scikit-learn · Matplotlib
-
-Analyzed healthcare datasets and built classification models achieving 85–90% accuracy. The focus wasn't the accuracy number — it was understanding **where models break down**: data quality issues, model bias, and the gap between benchmark performance and real-world deployability.
-
 ---
 
 ### [Elderly Assistance Platform](https://github.com/ranim85/Elderly-Assistance-Platform)
