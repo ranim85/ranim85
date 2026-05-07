@@ -22,14 +22,14 @@ Over time, I've gravitated toward the intersection of **machine learning and con
 
 ---
 
+##  Featured Projects
+
 ### [Healthcare ML System — Diabetes Risk Prediction](https://github.com/ranim85/healthcare_project)
 > XGBoost · FastAPI · Streamlit · MLflow · SHAP · Docker · Optuna · Pytest
 
 Production-grade ML system for clinical risk modeling. Calibrated XGBoost pipeline with Optuna hyperparameter search, FastAPI serving with strict Pydantic validation, SHAP explainability, MLflow experiment tracking, and 15 automated tests covering leakage, corruption, and inference paths. ROC-AUC: 0.7768 · F1: 0.8014 · Recall: 0.8692.
 
 ---
-
-##  Featured Projects
 
 ### [PFE Management & Defense Scheduling Platform](https://github.com/ranim85/Mini-projet-pfe-frontend)
 > React 18 · TypeScript · Spring Boot · OR-Tools CP-SAT · Python · Docker
