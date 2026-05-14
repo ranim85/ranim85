@@ -31,7 +31,7 @@ Production-grade ML system for clinical risk modeling. Calibrated XGBoost pipeli
 
 ---
 
-### [PFE Management & Defense Scheduling Platform]([https://github.com/ranim85/Mini-projet-pfe-frontend](https://github.com/ranim85/PFE_Management_-_Scheduling_Platform))
+### [PFE Management & Defense Scheduling Platform](https://github.com/ranim85/PFE_Management_-_Scheduling_Platform)
 > React 18 · TypeScript · Spring Boot · OR-Tools CP-SAT · Python · Docker
 
 Intelligent platform automating defense scheduling across supervisors, rooms, and time slots. Formulated as a **constraint optimization model** from scratch using OR-Tools CP-SAT. The real challenge: encoding informal real-world constraints into a formal model without losing what made them meaningful.
